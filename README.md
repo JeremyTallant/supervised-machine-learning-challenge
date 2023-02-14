@@ -1,4 +1,5 @@
 # Supervised Machine Learning Challenge
+![1728957](https://user-images.githubusercontent.com/112406455/218812823-db27c5fb-45de-4d86-8870-07f5199a369c.jpg)
 
 ## Background
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
